@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+ul {
+    text-align: left;
+    background-color: white;
+}
+
+.mdtc {
+    background-color: red;
+}
+
+.goulash {
+    background-color: green;
+}
